@@ -1,5 +1,11 @@
 # Notes #
 
+<!-- TOC -->
+- [1. Mac Set-up](#1-mac-set-up)
+- [2. Vi Editor](#2-vi-editor)
+- [3. Sublime](#3sublime)
+<!-- /TOC -->
+
 ## 1. Mac Set-up ##
 
 Are you admin?
@@ -57,7 +63,7 @@ Self-Service Software list
 	Sublime
 SnagIt
 
-## 2. [Vi Editor](#http://www.lagmonster.org/docs/vi.html) ##
+## 2. Vi Editor ##
 
 When editor is launched, it is COMMAND mode. When you invoke insert command (i), it is in INSERTION/EDIT mode.
 
